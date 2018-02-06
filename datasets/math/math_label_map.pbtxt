@@ -1,0 +1,505 @@
+item {
+name: "\\leq"
+id: 1
+display_name: "\\leq"
+}
+item {
+name: "\\}"
+id: 2
+display_name: "\\}"
+}
+item {
+name: "\\alpha"
+id: 3
+display_name: "\\alpha"
+}
+item {
+name: "!"
+id: 4
+display_name: "!"
+}
+item {
+name: "+"
+id: 5
+display_name: "+"
+}
+item {
+name: "("
+id: 6
+display_name: "("
+}
+item {
+name: ")"
+id: 7
+display_name: ")"
+}
+item {
+name: "."
+id: 8
+display_name: "."
+}
+item {
+name: "/"
+id: 9
+display_name: "/"
+}
+item {
+name: ","
+id: 10
+display_name: "COMMA"
+}
+item {
+name: "-"
+id: 11
+display_name: "-"
+}
+item {
+name: "3"
+id: 12
+display_name: "3"
+}
+item {
+name: "2"
+id: 13
+display_name: "2"
+}
+item {
+name: "\\{"
+id: 14
+display_name: "\\{"
+}
+item {
+name: "1"
+id: 15
+display_name: "1"
+}
+item {
+name: "\\in"
+id: 16
+display_name: "\\in"
+}
+item {
+name: "0"
+id: 17
+display_name: "0"
+}
+item {
+name: "7"
+id: 18
+display_name: "7"
+}
+item {
+name: "6"
+id: 19
+display_name: "6"
+}
+item {
+name: "5"
+id: 20
+display_name: "5"
+}
+item {
+name: "4"
+id: 21
+display_name: "4"
+}
+item {
+name: "\\geq"
+id: 22
+display_name: "\\geq"
+}
+item {
+name: "9"
+id: 23
+display_name: "9"
+}
+item {
+name: "8"
+id: 24
+display_name: "8"
+}
+item {
+name: "\\forall"
+id: 25
+display_name: "\\forall"
+}
+item {
+name: "="
+id: 26
+display_name: "="
+}
+item {
+name: "\\phi"
+id: 27
+display_name: "\\phi"
+}
+item {
+name: "E"
+id: 28
+display_name: "E"
+}
+item {
+name: "F"
+id: 29
+display_name: "F"
+}
+item {
+name: "G"
+id: 30
+display_name: "G"
+}
+item {
+name: "A"
+id: 31
+display_name: "A"
+}
+item {
+name: "B"
+id: 32
+display_name: "B"
+}
+item {
+name: "C"
+id: 33
+display_name: "C"
+}
+item {
+name: "\\infty"
+id: 34
+display_name: "\\infty"
+}
+item {
+name: "\\Delta"
+id: 35
+display_name: "\\Delta"
+}
+item {
+name: "L"
+id: 36
+display_name: "L"
+}
+item {
+name: "M"
+id: 37
+display_name: "M"
+}
+item {
+name: "N"
+id: 38
+display_name: "N"
+}
+item {
+name: "H"
+id: 39
+display_name: "H"
+}
+item {
+name: "I"
+id: 40
+display_name: "I"
+}
+item {
+name: "\\log"
+id: 41
+display_name: "\\log"
+}
+item {
+name: "\\lt"
+id: 42
+display_name: "\\lt"
+}
+item {
+name: "T"
+id: 43
+display_name: "T"
+}
+item {
+name: "V"
+id: 44
+display_name: "V"
+}
+item {
+name: "P"
+id: 45
+display_name: "P"
+}
+item {
+name: "S"
+id: 46
+display_name: "S"
+}
+item {
+name: "R"
+id: 47
+display_name: "R"
+}
+item {
+name: "]"
+id: 48
+display_name: "]"
+}
+item {
+name: "Y"
+id: 49
+display_name: "Y"
+}
+item {
+name: "\\sigma"
+id: 50
+display_name: "\\sigma"
+}
+item {
+name: "X"
+id: 51
+display_name: "X"
+}
+item {
+name: "["
+id: 52
+display_name: "["
+}
+item {
+name: "f"
+id: 53
+display_name: "f"
+}
+item {
+name: "g"
+id: 54
+display_name: "g"
+}
+item {
+name: "d"
+id: 55
+display_name: "d"
+}
+item {
+name: "\\prime"
+id: 56
+display_name: "\\prime"
+}
+item {
+name: "e"
+id: 57
+display_name: "e"
+}
+item {
+name: "b"
+id: 58
+display_name: "b"
+}
+item {
+name: "c"
+id: 59
+display_name: "c"
+}
+item {
+name: "a"
+id: 60
+display_name: "a"
+}
+item {
+name: "n"
+id: 61
+display_name: "n"
+}
+item {
+name: "\\neq"
+id: 62
+display_name: "\\neq"
+}
+item {
+name: "o"
+id: 63
+display_name: "o"
+}
+item {
+name: "l"
+id: 64
+display_name: "l"
+}
+item {
+name: "m"
+id: 65
+display_name: "m"
+}
+item {
+name: "j"
+id: 66
+display_name: "j"
+}
+item {
+name: "k"
+id: 67
+display_name: "k"
+}
+item {
+name: "h"
+id: 68
+display_name: "h"
+}
+item {
+name: "i"
+id: 69
+display_name: "i"
+}
+item {
+name: "\\tan"
+id: 70
+display_name: "\\tan"
+}
+item {
+name: "w"
+id: 71
+display_name: "w"
+}
+item {
+name: "v"
+id: 72
+display_name: "v"
+}
+item {
+name: "u"
+id: 73
+display_name: "u"
+}
+item {
+name: "t"
+id: 74
+display_name: "t"
+}
+item {
+name: "s"
+id: 75
+display_name: "s"
+}
+item {
+name: "r"
+id: 76
+display_name: "r"
+}
+item {
+name: "q"
+id: 77
+display_name: "q"
+}
+item {
+name: "p"
+id: 78
+display_name: "p"
+}
+item {
+name: "\\gamma"
+id: 79
+display_name: "\\gamma"
+}
+item {
+name: "|"
+id: 80
+display_name: "|"
+}
+item {
+name: "z"
+id: 81
+display_name: "z"
+}
+item {
+name: "\\ldots"
+id: 82
+display_name: "\\ldots"
+}
+item {
+name: "y"
+id: 83
+display_name: "y"
+}
+item {
+name: "x"
+id: 84
+display_name: "x"
+}
+item {
+name: "\\sqrt"
+id: 85
+display_name: "\\sqrt"
+}
+item {
+name: "\\lim"
+id: 86
+display_name: "\\lim"
+}
+item {
+name: "\\lambda"
+id: 87
+display_name: "\\lambda"
+}
+item {
+name: "\\sin"
+id: 88
+display_name: "\\sin"
+}
+item {
+name: "\\exists"
+id: 89
+display_name: "\\exists"
+}
+item {
+name: "\\mu"
+id: 90
+display_name: "\\mu"
+}
+item {
+name: "\\cos"
+id: 91
+display_name: "\\cos"
+}
+item {
+name: "\\theta"
+id: 92
+display_name: "\\theta"
+}
+item {
+name: "\\sum"
+id: 93
+display_name: "\\sum"
+}
+item {
+name: "\\times"
+id: 94
+display_name: "\\times"
+}
+item {
+name: "\\div"
+id: 95
+display_name: "\\div"
+}
+item {
+name: "\\rightarrow"
+id: 96
+display_name: "\\rightarrow"
+}
+item {
+name: "\\pm"
+id: 97
+display_name: "\\pm"
+}
+item {
+name: "\\gt"
+id: 98
+display_name: "\\gt"
+}
+item {
+name: "\\pi"
+id: 99
+display_name: "\\pi"
+}
+item {
+name: "\\int"
+id: 100
+display_name: "\\int"
+}
+item {
+name: "\\beta"
+id: 101
+display_name: "\\beta"
+}

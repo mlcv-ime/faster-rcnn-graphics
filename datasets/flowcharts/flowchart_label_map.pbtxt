@@ -1,0 +1,35 @@
+item {
+name: "text"
+id: 1
+display_name: "text"
+}
+item {
+name: "arrow"
+id: 2
+display_name: "arrow"
+}
+item {
+name: "connection"
+id: 3
+display_name: "connection"
+}
+item {
+name: "data"
+id: 4
+display_name: "data"
+}
+item {
+name: "decision"
+id: 5
+display_name: "decision"
+}
+item {
+name: "process"
+id: 6
+display_name: "process"
+}
+item {
+name: "terminator"
+id: 7
+display_name: "terminator"
+}
