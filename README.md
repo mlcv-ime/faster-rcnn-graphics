@@ -42,8 +42,8 @@ In case you use this work, please consider citing:
 
 ## Contents
 1. [Installation](#installation)
-2. [Evaluating the models](#evaluating)
-3. [Training new models](#training)
+2. [Evaluating the models](#evaluating-the-models)
+3. [Training new models](#training-new-models)
 
 ## Installation
 1. Clone the repository (with --recursive)
