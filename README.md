@@ -1,5 +1,5 @@
 # Symbol detection in online handwritten graphics using Faster R-CNN
-# faster-rcnn-graphics has been imported to [ImageU] (https://github.com/ImageU/faster-rcnn-graphics). Future updates will only be done on that project
+# faster-rcnn-graphics has been imported to [ImageU](https://github.com/ImageU/faster-rcnn-graphics). Future updates will only be done on that project
 This repository contains the implementation of the models 
 described in the paper "Symbol detection in online handwritten graphics using Faster R-CNN". 
 A model is a Faster R-CNN network that takes an image of a handwritten 
